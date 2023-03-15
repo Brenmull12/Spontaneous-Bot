@@ -1,0 +1,14 @@
+### This file contains the current feature list for Spontaneous Bot. For more information, please check the Github repository: https://github.com/Brenmull12/Spontaneous-Bot 
+
+
+SLASH COMMANDS:
+- /test
+
+Replies to your message with "Test Received!"
+
+
+
+OTHER FEATURES:
+- Popular Message Pins
+
+This feature will automatically pin any message with eight (8) matching reactions. This feature may activate anytime a message receives a reaction, including old messages and messages already exceeding eight likes. If the pins list is full, it will automatically unpin the oldest pinned message.
